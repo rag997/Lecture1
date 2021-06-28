@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_server_name">الهاتف</string>
+    <string name="pleas_provide_credentials">الرجاء التزود بالحقل المطلوب</string>
+    <string name="name">الاسم</string>
+    <string name="cancel">إنهاء</string>
+    <string name="login">دخول</string>
+    <string name="footer_text_goes_here">يتم عرض النص هنا</string>
+</resources>

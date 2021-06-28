@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lecture1</string>
+    <string name="mobile_server_name">Mobile Server Name</string>
+    <string name="pleas_provide_credentials">Pleas Provide Credentials</string>
+    <string name="name">Name</string>
+    <string name="cancel">CANCEL</string>
+    <string name="login">LOGIN</string>
+    <string name="footer_text_goes_here">Footer text goes here</string>
+</resources>
